@@ -1,0 +1,65 @@
+Computer
+Linux operating system with -preempt (power saving), -lowlatency, -rt or -realtime kernel and FireWire ports. We're using KXStudio's Debian distro for convenience.
+    
+Digital Audio Workstation (DAW)
+Ardour open source multichannel DAW
+.
+
+Audio Interface
+digital conversion - MOTO 828mk2 (8ch)
+, M-Audio (8ch) 
+mic preamps - (8ch)
+DI boxes
+headphone amps
+monitor management
+
+Microphones
+dynamic mics - Coby CM-P28,  
+condenser mics 
+ribbon mics
+large/small diaphragm mics
+stereo/matched pair mics
+variable polar pattern mics
+USB mics - SnowBall
+
+Microphone Stands - 
+1xBoomStand
+1xDeskStand
+
+Studio Monitors
+1X pair JBLMonitor
+
+Audio Cables
+2x Line Level XLR
+6+ Mic Level XLR 
+
+Headphones
+
+Pop Filters
+Mic stand clipped disc style
+
+Acoustic Treatment
+Bass Traps
+Acoustic Panels – ceiling tile over plywood over drywall
+Diffusers
+
+Reflection Filters
+when needed, i.e. solo singer
+
+Monitor Isolation Pads
+
+Studio Monitor Stands
+
+Uninterruptible Power Supply (UPS)
+
+Software Plugins
+LADSPA – low level plugin API for audio effects only
+LV2 – plugin API for audio & MIDI w/GUI
+VST – Steinberg's VST plugin standard (VST2.4)
+Windows VST – Windows VSTs on linux
+
+Virtual Instruments
+one good drum program, and…
+ - Hydrogen
+one good keyboard program.
+ - Virtual MIDI Keyboard
