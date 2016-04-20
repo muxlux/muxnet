@@ -1,2 +1,2 @@
 # muxnet
-audio network infrastructure
+open source audio network
