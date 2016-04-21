@@ -1,3 +1,4 @@
+<h1>Open Source Linux Audio Recording System</h1>
 Computer
 Linux operating system with -preempt (power saving), -lowlatency, -rt or -realtime kernel and FireWire ports. We're using KXStudio's Debian distro for convenience.
     
@@ -6,8 +7,7 @@ Ardour open source multichannel DAW
 .
 
 Audio Interface
-digital conversion - MOTO 828mk2 (8ch)
-, M-Audio (8ch) 
+digital conversion - MOTO 828mk2 (8ch), M-Audio (8ch) 
 mic preamps - (8ch)
 DI boxes
 headphone amps
@@ -22,7 +22,7 @@ stereo/matched pair mics
 variable polar pattern mics
 USB mics - SnowBall
 
-Microphone Stands - 
+Microphone Stands
 1xBoomStand
 1xDeskStand
 
@@ -59,7 +59,7 @@ VST – Steinberg's VST plugin standard (VST2.4)
 Windows VST – Windows VSTs on linux
 
 Virtual Instruments
-one good drum program, and…
- - Hydrogen
+one good drum program,
+ - Hydrogen and…
 one good keyboard program.
  - Virtual MIDI Keyboard
